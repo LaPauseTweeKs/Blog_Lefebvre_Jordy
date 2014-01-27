@@ -1,4 +1,4 @@
-Blog-PHP
+Blog de Lefebvre Jordy
 
 Mon blog pour m'initier à PHP
 
